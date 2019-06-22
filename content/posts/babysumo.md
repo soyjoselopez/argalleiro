@@ -3,6 +3,8 @@ title: "Baby Sumo"
 date: 2018-04-13T11:36:33+08:00
 draft: false
 featuredImg: ""
+images:
+ - https://www.argalleiro.ga/images/babysumo.jpg
 tags: 
   - Minisumo
 ---
