@@ -7,7 +7,7 @@ tags:
   - Minisumo
 ---
 
-![img](http://localhost:1313/images/babysumo.jpg)
+![img](./images/babysumo.jpg)
 
 <center>
 Terminado mi Baby Sumo 😍 Obra y arte de [BurgosKnights](https://twitter.com/BurgosKnights).
