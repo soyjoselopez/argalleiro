@@ -7,7 +7,7 @@ tags:
   - Minisumo
 ---
 
-![img](http://www.argalleiro.ga/images/babysumo.jpg)
+![img](https://www.argalleiro.ga/images/babysumo.jpg)
 
 <center>
 Terminado mi Baby Sumo 😍 Obra y arte de [BurgosKnights](https://twitter.com/BurgosKnights).
