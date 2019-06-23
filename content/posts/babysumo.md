@@ -4,21 +4,21 @@ date: 2018-04-13T11:36:33+08:00
 draft: false
 featuredImg: ""
 images:
- - https://www.argalleiro.ga/images/babysumo.jpg
-tags: 
+ - https://www.argalleiro.ga/images/babysumo/babysumo.jpg
+tags:
   - Minisumo
 ---
 
-![img](https://www.argalleiro.ga/images/babysumo.jpg)
+![img](https://www.argalleiro.ga/images/babysumo/babysumo.jpg)
 
 <center>
 Terminado mi Baby Sumo 😍 Obra y arte de [BurgosKnights](https://twitter.com/BurgosKnights).
 </center>
 
 
-Este minisumo es un robot open source impreso en 3d (consta de cinco partes) cuyos stl se pueden descargar desde thingiverse [^1]. 
+Este minisumo es un robot open source impreso en 3d (consta de cinco partes) cuyos stl se pueden descargar desde thingiverse [^1].
 
-Para la electrónica utiliza una placa de expansión y un arduino nano. También lleva un sensor de ultrasonidos para detectar al oponente y dos sensores de infrarrojos para detectar el dojo. 
+Para la electrónica utiliza una placa de expansión y un arduino nano. También lleva un sensor de ultrasonidos para detectar al oponente y dos sensores de infrarrojos para detectar el dojo.
 
 Los motores que utiliza son dos servos continuos.
 
