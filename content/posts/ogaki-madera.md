@@ -45,7 +45,7 @@ Y por fín escornabot finalizado, ahora a disfrutar!!
 
 ![img](https://www.argalleiro.ga/images/ogaki/ogaki-final.jpg)
 <center>
-Terminado mi Baby Sumo 😍 Obra y arte de [BurgosKnights](https://twitter.com/BurgosKnights).
+Escornabot Ogaki terminado 😍 
 </center>
 
 
