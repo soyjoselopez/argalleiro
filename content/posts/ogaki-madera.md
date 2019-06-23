@@ -4,7 +4,7 @@ date: 2019-06-23T11:36:33+08:00
 draft: false
 featuredImg: ""
 images:
- - https://www.argalleiro.ga/images/babysumo.jpg
+ - https://www.argalleiro.ga/images/ogaki/ogaki-final.jpg
 tags:
   - Escornabot, Robot
 ---
