@@ -14,6 +14,7 @@ Gracias a su creador Albert Marquéz [^1] [@Albert_tecno](https://twitter.com/Al
 Lo primero que hice fue soldar la pcb ogaki.
 
 ![img](https://www.argalleiro.ga/images/ogaki/pcb_1.jpg)
+
 ![img](https://www.argalleiro.ga/images/ogaki/pcb_2.jpg)
 
 Después pase al montaje del chasis de madera …
@@ -31,7 +32,9 @@ Después pase al montaje del chasis de madera …
 3ª parte. Ensamblaje y sujeción de la pcb
 
 ![img](https://www.argalleiro.ga/images/ogaki/ensamblaje_1.jpg)
+
 ![img](https://www.argalleiro.ga/images/ogaki/ensamblaje_2.jpg)
+
 ![img](https://www.argalleiro.ga/images/ogaki/ensamblaje_3.jpg)
 
 4ª parte. Ruedas
